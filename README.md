@@ -1,5 +1,4 @@
 ![banner](banner.gif)
 
 
-[![LinkedIn]()](https://www.linkedin.com/in/oliverspeir/)
-[![email]()](mailto:oliverspeir9@gmail.com)
+[![LinkedIn](linked-button.gif)](https://www.linkedin.com/in/oliverspeir/) [![email](contactme-button.gif)](mailto:oliverspeir9@gmail.com)
