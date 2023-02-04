@@ -8,11 +8,9 @@
 
 <!--   [![LinkedIn](linkedin-button.gif 'linkedin' =50%x)](https://www.linkedin.com/in/oliverspeir/) [![email](contactme-button.gif 'contactme' =50%x)](mailto:oliverspeir9@gmail.com) -->
 
-<!-- <table>
+<table>
   <tr>
-    <td> [![LinkedIn](linkedin-button.gif 'linkedin' =50%x)](https://www.linkedin.com/in/oliverspeir/) </td>
-    <td> [![email](contactme-button.gif 'contactme' =50%x)](mailto:oliverspeir9@gmail.com) </td>
+    <td> <a href="https://www.linkedin.com/in/oliverspeir/"> <img src="linkedin-button.gif" width=50%> </a> </td>
+    <td> <a href="mailto:oliverspeir9@gmail.com"> <img src="contactme-button.gif" width=50%> </a> </td>
   </tr>
- </table> -->
-
-<a href="https://www.linkedin.com/in/oliverspeir/"> <img src="linkedin-button.gif" width=50%> </a> <a href="mailto:oliverspeir9@gmail.com"> <img src="contactme-button.gif" width=50%> </a>
+ </table>
