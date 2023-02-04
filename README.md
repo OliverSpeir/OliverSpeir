@@ -4,4 +4,4 @@
 <!-- [![LinkedIn](linkedin-button.gif)](https://www.linkedin.com/in/oliverspeir/) 
 [![email](contactme-button.gif)](mailto:oliverspeir9@gmail.com) -->
 
-<img src ="linkedin-button.gif" width="900"> <img src ="contactme-button.gif" width="900">
+<img src ="linkedin-button.gif" width="600"> <img src ="contactme-button.gif" width="600">
