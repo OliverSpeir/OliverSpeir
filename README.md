@@ -1,5 +1,5 @@
 ![banner](banner.gif)
 
-
-[![LinkedIn](linkedin-button.gif)](https://www.linkedin.com/in/oliverspeir/) 
-[![email](contactme-button.gif)](mailto:oliverspeir9@gmail.com)
+<span style="display:block" class="note">[![LinkedIn](linkedin-button.gif)](https://www.linkedin.com/in/oliverspeir/) [![email](contactme-button.gif)](mailto:oliverspeir9@gmail.com) </span>
+<!-- [![LinkedIn](linkedin-button.gif)](https://www.linkedin.com/in/oliverspeir/) 
+[![email](contactme-button.gif)](mailto:oliverspeir9@gmail.com) -->
