@@ -7,6 +7,6 @@
 <img src ="linkedin-button.gif" width="600"> <img src ="contactme-button.gif" width="600">
 </span>
  -->
- |
+ a | a
 :-------------------------:|:-------------------------:
 ![linkedin](linkedin-button.gif)  |  ![contact](contactme-button.gif)
