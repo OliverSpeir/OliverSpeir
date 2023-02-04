@@ -15,5 +15,4 @@
   </tr>
  </table> -->
 
-<a href="https://www.linkedin.com/in/oliverspeir/"> <img src="linkedin-button.gif" width=50%> </a>
-<a href="mailto:oliverspeir9@gmail.com"> <img src="contactme-button.gif" width=50%> </a>
+<a href="https://www.linkedin.com/in/oliverspeir/"> <img src="linkedin-button.gif" width=50%> </a> <a href="mailto:oliverspeir9@gmail.com"> <img src="contactme-button.gif" width=50%> </a>
