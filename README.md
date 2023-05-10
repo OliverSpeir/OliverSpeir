@@ -1,6 +1,5 @@
 ![banner](banner.gif)
 
-
 <table>
   <tr>
     <td> <a href="https://www.linkedin.com/in/oliverspeir/"> <img src="linkedin-button.gif"> </a> </td>
